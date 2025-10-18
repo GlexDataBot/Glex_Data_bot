@@ -1,7 +1,7 @@
 # `🧿 Glex Data - 𝙱𝚘𝚝 🔮`
 
 ### `—◉ 👑 DUDAS SOBRE EL BOT?, CONTACTANOS 👑`
-<a href="http://wa.me/5219992095479" target="blank"><img src="https://img.shields.io/badge/GLEX_DATA_CREADOR-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="http://wa.me/51961858004" target="blank"><img src="https://img.shields.io/badge/GLEX_DATA_CREADOR-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 <a href="https://chat.whatsapp.com/LZuFmqoKnVMKq4eBF1Jrvn?mode=wwt" target="blank"><img src="https://img.shields.io/badge/GRUPO_DE_SOPORTE-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
